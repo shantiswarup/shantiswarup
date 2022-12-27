@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shantiswarup
 - 👀 I’m interested in scala and javascript
-- 🌱 I’m currently learning cloud(AWS)
+- 🌱 I’m currently learning cloud(GCP)
 - 💞️ I’m looking to collaborate on scala/javascript open source
 - 📫 How to reach me https://www.linkedin.com/in/shantiswarup-tunga/
 
